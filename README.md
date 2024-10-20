@@ -4,7 +4,7 @@
 -💞️ Always eager to collaborate on projects that push the boundaries of creativity—let's build something amazing together!
 -📫 Reach me at [your email] or connect with me on [LinkedIn/Twitter]—I love networking with fellow tech enthusiasts!
 -😄 Pronouns: he/him
--⚡ Fun fact: I’m eager to participate in my first hackathon soon! I love the idea of collaborating with others to solve challenges creatively and can’t wait to turn innovative ideas into reality under pressure.
+-⚡ Fun fact:  I love the idea of collaborating with others to solve challenges creatively and can’t wait to turn innovative ideas into reality under pressure.
 
 <!---
 ShreyasD46/ShreyasD46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
